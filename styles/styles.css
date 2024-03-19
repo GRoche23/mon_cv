@@ -1,0 +1,44 @@
+.contenu {
+    width: 600px;
+    margin: 10px auto;  /* 10px indique la taille des 4 marges(top, right,bott,left)
+                        /* auto indique que la page est centrée */
+    background-color: antiquewhite;
+}
+
+
+h1, h2, h3 {
+    text-align: center;
+    color: brown;
+}
+.details {
+    /* background-color: lightgreen; */
+    height:150px;
+
+}
+hr {
+    border-bottom: brown;
+}
+
+.liste_details{
+    /* background-color: lightsalmon; */
+    float: left;
+    list-style-type: none;
+    margin-top: 30;
+
+} 
+
+.supp_bullet {
+    list-style-type: none;
+
+}
+div.details img {
+    height: 150px;
+    float:left;
+    border-radius: 100%;
+
+}
+
+.cv_section {
+/* background-color: lightskyblue; */
+padding-bottom: 10px;
+}
